@@ -2,7 +2,7 @@
 > **TL;DR:** Drop `portable_notifier.py` into your project, decorate your functions with `@notify_task`, and get instant ntfy notifications for any Python code—no setup required!
 ## 🚦 Prerequisites
 
-- **Python ** 
+- **Python** 
 - **ntfy** notification server (public: https://ntfy.sh or your own)
 
 Install requests:
