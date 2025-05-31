@@ -1,5 +1,5 @@
 # Portable Notification System - Quick Guide
-
+> **TL;DR:** Drop `portable_notifier.py` into your project, decorate your functions with `@notify_task`, and get instant ntfy notifications for any Python code—no setup required!
 ## 🚦 Prerequisites
 
 - **Python ** 
